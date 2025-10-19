@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.mgs.crypto": {
+      "version": "https://github.com/mogoson/MGS.Crypto.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "162acbae7cda995e17cad22fbe20474e1f5ca86d"
+    },
     "com.mgs.scriptdiemaker": {
       "version": "https://github.com/mogoson/MGS.ScriptDiemaker.git?path=/Assets",
       "depth": 0,
