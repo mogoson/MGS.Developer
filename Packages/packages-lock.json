@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.mgs.asyncoperatehub": {
+      "version": "https://github.com/mogoson/MGS.AsyncOperateHub.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2d755cb615b7cc0be812520017f6f46ea4f9b5a9"
+    },
     "com.mgs.autofac": {
       "version": "https://github.com/mogoson/MGS.Autofac.git?path=/Assets",
       "depth": 0,
@@ -14,12 +21,82 @@
       "dependencies": {},
       "hash": "efaea4d1fb14777133ab678d7d93f5090bae6969"
     },
+    "com.mgs.monoagent": {
+      "version": "https://github.com/mogoson/MGS.MonoAgent.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "7e186760c5c85218c0f8ec203b8e4fe42d0ab7fc"
+    },
     "com.mgs.scriptdiemaker": {
       "version": "https://github.com/mogoson/MGS.ScriptDiemaker.git?path=/Assets",
       "depth": 0,
       "source": "git",
       "dependencies": {},
       "hash": "e92555f727af369c51e2e0f893be74e441b7fb49"
+    },
+    "com.mgs.speech": {
+      "version": "https://github.com/mogoson/MGS.Speech.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "570431f673c7d1816df21077abaea8783deaa4e0"
+    },
+    "com.mgs.sqlite": {
+      "version": "https://github.com/mogoson/MGS.Sqlite.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9aba587e299392eea1af30122be601f01f94853a"
+    },
+    "com.mgs.terrainmodifier": {
+      "version": "https://github.com/mogoson/MGS.TerrainModifier.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a21bc09a0bc1f66194633be2e042abe324949562"
+    },
+    "com.mgs.uimap": {
+      "version": "https://github.com/mogoson/MGS.UIMap.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9fd2c8c825d10ef590134cb9d2032f04f49fd619"
+    },
+    "com.mgs.undo": {
+      "version": "https://github.com/mogoson/MGS.Undo.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c14f5141ee1f0583459d0fb6c6b2e428342b0972"
+    },
+    "com.mgs.unityhelper": {
+      "version": "https://github.com/mogoson/MGS.UnityHelper.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "66fa52d6691e28f22b2ded820eb5210cd026664d"
+    },
+    "com.mgs.webrequesthub": {
+      "version": "https://github.com/mogoson/MGS.WebRequestHub.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ddfcb171345f9d24c17f69df341feb49a51ab818"
+    },
+    "com.mgs.winutility": {
+      "version": "https://github.com/mogoson/MGS.WinUtility.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1372fc62d769a975add685e011d3e42ada505642"
+    },
+    "com.mgs.ziphub": {
+      "version": "https://github.com/mogoson/MGS.ZipHub.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3c867b1104316c2f53c92a7060a15df6fc74e170"
     },
     "com.unity.collab-proxy": {
       "version": "2.3.1",
@@ -55,6 +132,13 @@
     },
     "com.unity.ide.vscode": {
       "version": "1.2.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.cn"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
