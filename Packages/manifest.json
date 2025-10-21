@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.mgs.autofac": "https://github.com/mogoson/MGS.Autofac.git?path=/Assets",
     "com.mgs.crypto": "https://github.com/mogoson/MGS.Crypto.git?path=/Assets",
     "com.mgs.scriptdiemaker": "https://github.com/mogoson/MGS.ScriptDiemaker.git?path=/Assets",
     "com.unity.collab-proxy": "2.3.1",
