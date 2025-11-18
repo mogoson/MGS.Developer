@@ -1,8 +1,13 @@
 {
   "dependencies": {
+    "com.mgs.animation": "https://github.com/mogoson/MGS.Animation.git?path=/Assets",
+    "com.mgs.assemblyman": "https://github.com/mogoson/MGS.Assemblyman.git?path=/Assets",
+    "com.mgs.assetbundlehub": "https://github.com/mogoson/MGS.AssetBundleHub.git?path=/Assets",
     "com.mgs.asyncoperatehub": "https://github.com/mogoson/MGS.AsyncOperateHub.git?path=/Assets",
     "com.mgs.autofac": "https://github.com/mogoson/MGS.Autofac.git?path=/Assets",
+    "com.mgs.baseeditor": "https://github.com/mogoson/MGS.BaseEditor.git?path=/Assets",
     "com.mgs.crypto": "https://github.com/mogoson/MGS.Crypto.git?path=/Assets",
+    "com.mgs.curve": "https://github.com/mogoson/MGS.Curve.git?path=/Assets",
     "com.mgs.monoagent": "https://github.com/mogoson/MGS.MonoAgent.git?path=/Assets",
     "com.mgs.scriptdiemaker": "https://github.com/mogoson/MGS.ScriptDiemaker.git?path=/Assets",
     "com.mgs.speech": "https://github.com/mogoson/MGS.Speech.git?path=/Assets",
