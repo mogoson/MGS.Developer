@@ -100,3 +100,5 @@ InitTestScene*.unity*
 /*.vsconfig
 /Assets/Samples.meta
 /Assets/Samples
+/Assets/LicenseSettings
+/Assets/LicenseSettings.meta

@@ -21,19 +21,47 @@
       "dependencies": {},
       "hash": "60c71b71b6aca3d87e0693e1954f6d906c82b1c4"
     },
+    "com.mgs.assetfilter": {
+      "version": "https://github.com/mogoson/MGS.AssetFilter.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ed3788144c42089d43f0b742992043b6e0aa5a26"
+    },
+    "com.mgs.assetguider": {
+      "version": "https://github.com/mogoson/MGS.AssetGuider.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "553d830fa52a2df7721a17330b68383f5cfcfbac"
+    },
     "com.mgs.asyncoperatehub": {
       "version": "https://github.com/mogoson/MGS.AsyncOperateHub.git?path=/Assets",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "2d755cb615b7cc0be812520017f6f46ea4f9b5a9"
+      "hash": "bf866a9fd3fa64dc1c0a24aff8514ea76352a9c3"
+    },
+    "com.mgs.asyncworkhub": {
+      "version": "https://github.com/mogoson/MGS.AsyncWorkHub.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "7c9ec62f248b4aa3a7557c8ac0679a04f3b37c1d"
     },
     "com.mgs.autofac": {
       "version": "https://github.com/mogoson/MGS.Autofac.git?path=/Assets",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "94d3b6f629ad549c43ba6c3026a0c0340baacd2f"
+      "hash": "a9c55e3288b40465c840503b090ea2df9c2256ee"
+    },
+    "com.mgs.barcode": {
+      "version": "https://github.com/mogoson/MGS.Barcode.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "7ee03244df7216aef99e848fdf1d8d4a1f06d7b1"
     },
     "com.mgs.baseeditor": {
       "version": "https://github.com/mogoson/MGS.BaseEditor.git?path=/Assets",
@@ -42,12 +70,68 @@
       "dependencies": {},
       "hash": "ed95bae14cfe19690d6548832e5ddbf5ce47ed69"
     },
+    "com.mgs.cacher": {
+      "version": "https://github.com/mogoson/MGS.Cacher.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "db7560ae7df3a62d6d9990c3cb08eee9f6715fcd"
+    },
+    "com.mgs.camera": {
+      "version": "https://github.com/mogoson/MGS.Camera.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d58e99c30b4d8b8054f197f202de5ea399268dca"
+    },
+    "com.mgs.capture": {
+      "version": "https://github.com/mogoson/MGS.Capture.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "32cf39b6d48361f61cac5fc02fc5162718a70ec8"
+    },
+    "com.mgs.chain": {
+      "version": "https://github.com/mogoson/MGS.Chain.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2779e66750467985110ef6fca5c590adc5f493a8"
+    },
+    "com.mgs.commandservo": {
+      "version": "https://github.com/mogoson/MGS.CommandServo.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e37f9ea23acf40f666893365dbc54a7df7d19a55"
+    },
+    "com.mgs.compresshub": {
+      "version": "https://github.com/mogoson/MGS.CompressHub.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1400f29dc7d3195a633b3dc25afb506818fe1b31"
+    },
+    "com.mgs.cruiser": {
+      "version": "https://github.com/mogoson/MGS.Cruiser.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2d1809c272d5ebb1eac5856d651ec24078a4bb35"
+    },
     "com.mgs.crypto": {
       "version": "https://github.com/mogoson/MGS.Crypto.git?path=/Assets",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "efaea4d1fb14777133ab678d7d93f5090bae6969"
+      "hash": "c10e1ec86c6582f0d9f064b1754b13b9bdceeabf"
+    },
+    "com.mgs.cubemaprenderer": {
+      "version": "https://github.com/mogoson/MGS.CubemapRenderer.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2b1510490eb80f4bc73954d75327e789714be276"
     },
     "com.mgs.curve": {
       "version": "https://github.com/mogoson/MGS.Curve.git?path=/Assets",
@@ -56,21 +140,114 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       },
-      "hash": "77b2f4da28df270b5043391fb49239a607b0d4a3"
+      "hash": "1631550879d243ebfc8b3b4eeb9effffb28e6483"
+    },
+    "com.mgs.curvehose": {
+      "version": "https://github.com/mogoson/MGS.CurveHose.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b3bcbb88a6ac7cb65b88c4ca25c91eec0b832f97"
+    },
+    "com.mgs.dirtytree": {
+      "version": "https://github.com/mogoson/MGS.DirtyTree.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d917c133f60b516769cea2da37940a022423d9d4"
+    },
+    "com.mgs.electronics": {
+      "version": "https://github.com/mogoson/MGS.Electronics.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a57b5ad5477af07472e0299535f36a4fe2c1b4e3"
+    },
+    "com.mgs.eventhub": {
+      "version": "https://github.com/mogoson/MGS.EventHub.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2584011c0648d872ad4eeeb89bb8714c272b882c"
+    },
+    "com.mgs.fsm": {
+      "version": "https://github.com/mogoson/MGS.FSM.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4b7437d5fd016753ae8c0c347cd2b2f8fdda3df8"
+    },
+    "com.mgs.geometry": {
+      "version": "https://github.com/mogoson/MGS.Geometry.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5323102b631bc5e196069d0e241f8664ab4811f0"
+    },
+    "com.mgs.ghostdom": {
+      "version": "https://github.com/mogoson/MGS.Ghostdom.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "de66fc224cb910301dafb11944f39466db6b9666"
+    },
+    "com.mgs.gizmo": {
+      "version": "https://github.com/mogoson/MGS.Gizmo.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "bd9499f19888dce35a379bec5022e95fc4aa3066"
+    },
+    "com.mgs.graph": {
+      "version": "https://github.com/mogoson/MGS.Graph.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2c0aadba3c18a1ff983f235bf977eb8a771ad893"
+    },
+    "com.mgs.ioutility": {
+      "version": "https://github.com/mogoson/MGS.IOUtility.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "fc367f55f5b32d16f1c5020cc98c0d9d897df812"
+    },
+    "com.mgs.licensehub": {
+      "version": "https://github.com/mogoson/MGS.LicenseHub.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      },
+      "hash": "5d659371cd53fc3a51a55647645de7cf21f97c50"
+    },
+    "com.mgs.machinery": {
+      "version": "https://github.com/mogoson/MGS.Machinery.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b484cc375bf2bf50ca1d1d84863d1cb8cfda054a"
     },
     "com.mgs.monoagent": {
       "version": "https://github.com/mogoson/MGS.MonoAgent.git?path=/Assets",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "7e186760c5c85218c0f8ec203b8e4fe42d0ab7fc"
+      "hash": "e782c7d0046b6c8339e44ef130f2e80ef688d65e"
     },
     "com.mgs.scriptdiemaker": {
       "version": "https://github.com/mogoson/MGS.ScriptDiemaker.git?path=/Assets",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "e92555f727af369c51e2e0f893be74e441b7fb49"
+      "hash": "fe04ddf251dfb155ba57b1a8ce4d2b841c4bec7a"
+    },
+    "com.mgs.selectabledst": {
+      "version": "https://github.com/mogoson/MGS.SelectableDST.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6d88263bda7450e9ef310da396fad32e51c0ead3"
     },
     "com.mgs.speech": {
       "version": "https://github.com/mogoson/MGS.Speech.git?path=/Assets",
@@ -84,14 +261,28 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "9aba587e299392eea1af30122be601f01f94853a"
+      "hash": "6651f7e6571875b418251fd9007f5d73cf64fb70"
+    },
+    "com.mgs.streamingporter": {
+      "version": "https://github.com/mogoson/MGS.StreamingPorter.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a97de896d3403de9ea942f84a60c8666af6563d3"
+    },
+    "com.mgs.streamingreader": {
+      "version": "https://github.com/mogoson/MGS.StreamingReader.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "732997ad735ddaf4e9ada03c1899467e85e3daca"
     },
     "com.mgs.terrainmodifier": {
       "version": "https://github.com/mogoson/MGS.TerrainModifier.git?path=/Assets",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "a21bc09a0bc1f66194633be2e042abe324949562"
+      "hash": "1fac148c00b5225279ae8aef231ca74338a6195a"
     },
     "com.mgs.uimap": {
       "version": "https://github.com/mogoson/MGS.UIMap.git?path=/Assets",
@@ -112,7 +303,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "66fa52d6691e28f22b2ded820eb5210cd026664d"
+      "hash": "fd47b75d63f49b1b34b07b48b7055ca6f7ebb925"
     },
     "com.mgs.webrequesthub": {
       "version": "https://github.com/mogoson/MGS.WebRequestHub.git?path=/Assets",
