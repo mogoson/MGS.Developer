@@ -31,6 +31,7 @@
     "com.mgs.graph": "https://github.com/mogoson/MGS.Graph.git?path=/Assets",
     "com.mgs.ioutility": "https://github.com/mogoson/MGS.IOUtility.git?path=/Assets",
     "com.mgs.licensehub": "https://github.com/mogoson/MGS.LicenseHub.git?path=/Assets",
+    "com.mgs.loghub": "https://github.com/mogoson/MGS.LogHub.git?path=/Assets",
     "com.mgs.machinery": "https://github.com/mogoson/MGS.Machinery.git?path=/Assets",
     "com.mgs.monoagent": "https://github.com/mogoson/MGS.MonoAgent.git?path=/Assets",
     "com.mgs.scriptdiemaker": "https://github.com/mogoson/MGS.ScriptDiemaker.git?path=/Assets",

@@ -219,7 +219,14 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       },
-      "hash": "5d659371cd53fc3a51a55647645de7cf21f97c50"
+      "hash": "ab261aa5ce0e79d3253733d35ca84ac2c4ba4a19"
+    },
+    "com.mgs.loghub": {
+      "version": "https://github.com/mogoson/MGS.LogHub.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "67b3e643d59beb1a0dd10dbedf061942a0115bf2"
     },
     "com.mgs.machinery": {
       "version": "https://github.com/mogoson/MGS.Machinery.git?path=/Assets",
