@@ -29,6 +29,7 @@
     "com.mgs.ghostdom": "https://github.com/mogoson/MGS.Ghostdom.git?path=/Assets",
     "com.mgs.gizmo": "https://github.com/mogoson/MGS.Gizmo.git?path=/Assets",
     "com.mgs.graph": "https://github.com/mogoson/MGS.Graph.git?path=/Assets",
+    "com.mgs.inspector": "https://github.com/mogoson/MGS.Inspector.git?path=/Assets",
     "com.mgs.ioutility": "https://github.com/mogoson/MGS.IOUtility.git?path=/Assets",
     "com.mgs.licensehub": "https://github.com/mogoson/MGS.LicenseHub.git?path=/Assets",
     "com.mgs.loghub": "https://github.com/mogoson/MGS.LogHub.git?path=/Assets",

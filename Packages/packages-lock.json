@@ -205,6 +205,13 @@
       "dependencies": {},
       "hash": "2c0aadba3c18a1ff983f235bf977eb8a771ad893"
     },
+    "com.mgs.inspector": {
+      "version": "https://github.com/mogoson/MGS.Inspector.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e16d52206d3e4bb1285a822823ddc94928b400fa"
+    },
     "com.mgs.ioutility": {
       "version": "https://github.com/mogoson/MGS.IOUtility.git?path=/Assets",
       "depth": 0,
