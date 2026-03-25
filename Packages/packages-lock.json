@@ -291,6 +291,20 @@
       "dependencies": {},
       "hash": "1fac148c00b5225279ae8aef231ca74338a6195a"
     },
+    "com.mgs.textsignal": {
+      "version": "https://github.com/mogoson/MGS.TextSignal.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "230b8da6e8564c84ea444fce8255ba1f3b443108"
+    },
+    "com.mgs.texttrack": {
+      "version": "https://github.com/mogoson/MGS.TextTrack.git?path=/Assets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f9f5572edae087fefbe6ed5f1121cfe69b62c6b6"
+    },
     "com.mgs.uimap": {
       "version": "https://github.com/mogoson/MGS.UIMap.git?path=/Assets",
       "depth": 0,

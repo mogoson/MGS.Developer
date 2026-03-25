@@ -41,6 +41,8 @@
     "com.mgs.streamingporter": "https://github.com/mogoson/MGS.StreamingPorter.git?path=/Assets",
     "com.mgs.streamingreader": "https://github.com/mogoson/MGS.StreamingReader.git?path=/Assets",
     "com.mgs.terrainmodifier": "https://github.com/mogoson/MGS.TerrainModifier.git?path=/Assets",
+    "com.mgs.textsignal": "https://github.com/mogoson/MGS.TextSignal.git?path=/Assets",
+    "com.mgs.texttrack": "https://github.com/mogoson/MGS.TextTrack.git?path=/Assets",
     "com.mgs.uimap": "https://github.com/mogoson/MGS.UIMap.git?path=/Assets",
     "com.mgs.undo": "https://github.com/mogoson/MGS.Undo.git?path=/Assets",
     "com.mgs.unityhelper": "https://github.com/mogoson/MGS.UnityHelper.git?path=/Assets",
