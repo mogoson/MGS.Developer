@@ -1,10 +1,15 @@
 [TOC]
 
+# Cursor
+
+| IDE                  |
+| -------------------- |
+| Unity + MCP + Cursor |
+|                      |
+
 # Copilot
 
-## Copilot + MCP
-
-| Name                                | Source |
-| ----------------------------------- | ------ |
-| Unity + MCP                         |        |
-| Visual Studio Code + Github Copilot |        |
+| IDE                                               |
+| ------------------------------------------------- |
+| Unity + MCP + Visual Studio Code + Github Copilot |
+|                                                   |
